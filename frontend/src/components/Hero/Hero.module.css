@@ -1,0 +1,160 @@
+.hero {
+  padding: 80px 0 100px;
+  background: var(--background);
+}
+
+.heroContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 60px;
+}
+
+.leftCol {
+  flex: 1;
+  max-width: 540px;
+}
+
+.eyebrow {
+  color: var(--primary);
+  font-weight: 700;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 24px;
+}
+
+.eyebrow::before {
+  content: "";
+  display: block;
+  width: 6px;
+  height: 6px;
+  background: var(--primary);
+  border-radius: 50%;
+}
+
+.title {
+  font-size: 56px;
+  line-height: 1.1;
+  margin-bottom: 24px;
+  color: var(--text-dark);
+}
+
+.title span {
+  color: var(--primary);
+}
+
+.description {
+  font-size: 18px;
+  color: var(--text-body);
+  margin-bottom: 40px;
+  line-height: 1.6;
+}
+
+.ctaGroup {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 48px;
+}
+
+.primaryCta {
+  background: var(--primary);
+  color: white;
+  padding: 16px 32px;
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  transition: transform var(--transition), box-shadow var(--transition);
+}
+
+.primaryCta:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+.secondaryCta {
+  background: white;
+  color: var(--text-dark);
+  padding: 16px 32px;
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+  font-size: 16px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid var(--border-color);
+  transition: transform var(--transition), border-color var(--transition);
+}
+
+.secondaryCta:hover {
+  transform: translateY(-2px);
+  border-color: var(--text-dark);
+}
+
+.socialProof {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.avatars {
+  display: flex;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 2px solid white;
+  margin-left: -12px;
+  object-fit: cover;
+}
+
+.avatar:first-child {
+  margin-left: 0;
+}
+
+.socialProofText {
+  font-size: 14px;
+  color: var(--text-body);
+}
+
+.socialProofText strong {
+  color: var(--primary);
+}
+
+.rightCol {
+  flex: 1.2;
+  position: relative;
+}
+
+.laptopImg {
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(var(--shadow-lg));
+}
+
+@media (max-width: 992px) {
+  .heroContent {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .leftCol {
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .title {
+    font-size: 42px;
+  }
+}

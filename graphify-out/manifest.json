@@ -1,0 +1,172 @@
+{
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\eslint.config.mjs": {
+    "mtime": 1780931519.8030407,
+    "ast_hash": "6c4307ffa009658f5c97f5629094c0c2",
+    "semantic_hash": "6c4307ffa009658f5c97f5629094c0c2"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\next-env.d.ts": {
+    "mtime": 1782045969.0681283,
+    "ast_hash": "b698cdd97fe8e3bd16dcd74899ad7cef",
+    "semantic_hash": "b698cdd97fe8e3bd16dcd74899ad7cef"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\next.config.ts": {
+    "mtime": 1780934928.7351587,
+    "ast_hash": "63bee2e09f6ecaa63f0d410ec1ebe159",
+    "semantic_hash": "63bee2e09f6ecaa63f0d410ec1ebe159"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\package.json": {
+    "mtime": 1780931519.804558,
+    "ast_hash": "b44ed5f4942392b8d9a959a8b69a3d5c",
+    "semantic_hash": "b44ed5f4942392b8d9a959a8b69a3d5c"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\postcss.config.mjs": {
+    "mtime": 1780931519.804558,
+    "ast_hash": "481fac0fdecd70e1821cc30b86030c1a",
+    "semantic_hash": "481fac0fdecd70e1821cc30b86030c1a"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\tsconfig.json": {
+    "mtime": 1780931519.8065598,
+    "ast_hash": "0a2f4ed9289b65cd3feb4fb4ab3a4fcd",
+    "semantic_hash": "0a2f4ed9289b65cd3feb4fb4ab3a4fcd"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\app\\layout.tsx": {
+    "mtime": 1782045943.303881,
+    "ast_hash": "f42b1cbced0eeba544ebcfd5dfa50dcb",
+    "semantic_hash": "f42b1cbced0eeba544ebcfd5dfa50dcb"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\app\\page.tsx": {
+    "mtime": 1780934914.3401237,
+    "ast_hash": "439be922bed05b1d3f7041dea0fd2c9e",
+    "semantic_hash": "439be922bed05b1d3f7041dea0fd2c9e"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\components\\BookingModal\\BookingModal.tsx": {
+    "mtime": 1782045989.590806,
+    "ast_hash": "611358ae96e991ca9f4a2f8b10f6f342",
+    "semantic_hash": "611358ae96e991ca9f4a2f8b10f6f342"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\components\\Brands\\Brands.tsx": {
+    "mtime": 1780934670.778898,
+    "ast_hash": "93095d01d7242f9237d7befd8d9987b5",
+    "semantic_hash": "93095d01d7242f9237d7befd8d9987b5"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\components\\CallToAction\\CallToAction.tsx": {
+    "mtime": 1782045996.7351947,
+    "ast_hash": "ccaeb18fa094b759c8d7d68f6e2805e9",
+    "semantic_hash": "ccaeb18fa094b759c8d7d68f6e2805e9"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\components\\FeaturedWork\\FeaturedWork.tsx": {
+    "mtime": 1780934714.4053054,
+    "ast_hash": "2fee45569a743f0d906986850169b8a5",
+    "semantic_hash": "2fee45569a743f0d906986850169b8a5"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\components\\Footer\\Footer.tsx": {
+    "mtime": 1780934801.9269228,
+    "ast_hash": "ade5ff4d2c14617d178dcbab5d759298",
+    "semantic_hash": "ade5ff4d2c14617d178dcbab5d759298"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\components\\Hero\\Hero.tsx": {
+    "mtime": 1782045952.8498578,
+    "ast_hash": "9c255c6b80d40d1ac63dfd9ea8733383",
+    "semantic_hash": "9c255c6b80d40d1ac63dfd9ea8733383"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\components\\Navbar\\Navbar.tsx": {
+    "mtime": 1782045948.271519,
+    "ast_hash": "6a02912d2b4e8178c31d2c4dd78133ea",
+    "semantic_hash": "6a02912d2b4e8178c31d2c4dd78133ea"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\components\\Process\\Process.tsx": {
+    "mtime": 1780934732.961614,
+    "ast_hash": "f2f4f1452f94438a2a1730af0af20503",
+    "semantic_hash": "f2f4f1452f94438a2a1730af0af20503"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\components\\Services\\Services.tsx": {
+    "mtime": 1780934691.0282407,
+    "ast_hash": "e54016fded723f38e49ba9d26321f4a2",
+    "semantic_hash": "e54016fded723f38e49ba9d26321f4a2"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\components\\Testimonials\\Testimonials.tsx": {
+    "mtime": 1782046000.8609948,
+    "ast_hash": "5902d113a2987836e8d70b76d31a1d6f",
+    "semantic_hash": "5902d113a2987836e8d70b76d31a1d6f"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\src\\context\\BookingContext.tsx": {
+    "mtime": 1782045919.20926,
+    "ast_hash": "b02f54331a59ad93e69c6f3d8add5d54",
+    "semantic_hash": "b02f54331a59ad93e69c6f3d8add5d54"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\HANDOFF.md": {
+    "mtime": 1780931519.802042,
+    "ast_hash": "dbf0c3955ebe4b5795725bb60b9449da",
+    "semantic_hash": "dbf0c3955ebe4b5795725bb60b9449da"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\.agents\\rules\\graphify.md": {
+    "mtime": 1780933734.55824,
+    "ast_hash": "a0e4d192b9e2e17256124dbfc8e24e6a",
+    "semantic_hash": "a0e4d192b9e2e17256124dbfc8e24e6a"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\.agents\\workflows\\graphify.md": {
+    "mtime": 1780933734.5588064,
+    "ast_hash": "84de69efd46ab0b8430393bd4188f8f2",
+    "semantic_hash": "84de69efd46ab0b8430393bd4188f8f2"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\AGENTS.md": {
+    "mtime": 1780931519.802042,
+    "ast_hash": "9346a4897ff955555ddedb7bebf77adb",
+    "semantic_hash": "9346a4897ff955555ddedb7bebf77adb"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\CLAUDE.md": {
+    "mtime": 1780931519.802042,
+    "ast_hash": "771faa62feb60b7de901a397aebb29b0",
+    "semantic_hash": "771faa62feb60b7de901a397aebb29b0"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\README.md": {
+    "mtime": 1780931519.8030407,
+    "ast_hash": "9162add00befbcdb432430f405c4ad8d",
+    "semantic_hash": "9162add00befbcdb432430f405c4ad8d"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\public\\file.svg": {
+    "mtime": 1780931519.804558,
+    "ast_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71",
+    "semantic_hash": "d09f95206c3fa0bb9bd9fefabfd0ea71"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\public\\globe.svg": {
+    "mtime": 1780931519.804558,
+    "ast_hash": "2aaafa6a49b6563925fe440891e32717",
+    "semantic_hash": "2aaafa6a49b6563925fe440891e32717"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\public\\next.svg": {
+    "mtime": 1780931519.8055587,
+    "ast_hash": "8e061864f388b47f33a1c3780831193e",
+    "semantic_hash": "8e061864f388b47f33a1c3780831193e"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\public\\vercel.svg": {
+    "mtime": 1780931519.8055587,
+    "ast_hash": "c0af2f507b369b085b35ef4bbe3bcf1e",
+    "semantic_hash": "c0af2f507b369b085b35ef4bbe3bcf1e"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\public\\window.svg": {
+    "mtime": 1780931519.8055587,
+    "ast_hash": "a2760511c65806022ad20adf74370ff3",
+    "semantic_hash": "a2760511c65806022ad20adf74370ff3"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\public\\images\\hero-laptop.png": {
+    "mtime": 1780934518.6167686,
+    "ast_hash": "e419a54b9ccbdc7dc84e69702192cfad",
+    "semantic_hash": "e419a54b9ccbdc7dc84e69702192cfad"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\public\\images\\project-1.png": {
+    "mtime": 1780934544.868872,
+    "ast_hash": "0267ea282b573a808581429858f77388",
+    "semantic_hash": "0267ea282b573a808581429858f77388"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\public\\images\\project-2.png": {
+    "mtime": 1780934570.658708,
+    "ast_hash": "172c76bc3ef8cb73cf6b806e0baa866d",
+    "semantic_hash": "172c76bc3ef8cb73cf6b806e0baa866d"
+  },
+  "E:\\projects\\portfolio\\NexusAgency\\frontend\\public\\images\\project-3.png": {
+    "mtime": 1780934582.8773074,
+    "ast_hash": "bff205feaf33e4cf48187ac861a9b9d8",
+    "semantic_hash": "bff205feaf33e4cf48187ac861a9b9d8"
+  }
+}

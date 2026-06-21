@@ -1,0 +1,135 @@
+.testimonialSection {
+  padding: 100px 0;
+  background: var(--background-alt);
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  gap: 80px;
+}
+
+.leftCol {
+  flex: 1;
+  max-width: 400px;
+}
+
+.eyebrow {
+  color: var(--primary);
+  font-weight: 700;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 16px;
+}
+
+.eyebrow::before {
+  content: "";
+  display: block;
+  width: 6px;
+  height: 6px;
+  background: var(--primary);
+  border-radius: 50%;
+}
+
+.title {
+  font-size: 40px;
+}
+
+.title span {
+  color: var(--primary);
+}
+
+.rightCol {
+  flex: 1.5;
+}
+
+.card {
+  background: white;
+  padding: 48px;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+  position: relative;
+}
+
+.quoteIcon {
+  color: var(--primary);
+  font-size: 48px;
+  line-height: 1;
+  font-family: serif;
+  margin-bottom: 16px;
+  opacity: 0.5;
+}
+
+.quote {
+  font-size: 18px;
+  line-height: 1.6;
+  color: var(--text-dark);
+  font-weight: 500;
+  margin-bottom: 32px;
+}
+
+.authorRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.authorInfo {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.avatar {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.authorName {
+  font-weight: 700;
+  color: var(--text-dark);
+  font-size: 16px;
+}
+
+.authorRole {
+  font-size: 14px;
+  color: var(--text-body);
+}
+
+.navArrows {
+  display: flex;
+  gap: 8px;
+}
+
+.arrowBtn {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: 1px solid var(--border-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-dark);
+  transition: all var(--transition);
+}
+
+.arrowBtn:hover {
+  border-color: var(--primary);
+  color: var(--primary);
+  background: var(--primary-light);
+}
+
+@media (max-width: 992px) {
+  .content {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 40px;
+  }
+}
